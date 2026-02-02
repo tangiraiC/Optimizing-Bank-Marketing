@@ -1,0 +1,90 @@
+---
+title: "Untitled"
+format: pdf
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+# Load necessary libraries
+library(readr)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+
+# STEP 1: Load the dataset
+bank_data <- read_csv("bank-additional-full.csv")
+
+# STEP 2: Clean the data
+bank_data <- bank_data %>%
+  filter(
+    education != "unknown",
+    job != "unknown",
+    housing != "unknown",
+    loan != "unknown",
+    default != "unknown"
+  )
+
+# STEP 3: Select economic variables (excluding nr.employed)
+economic_vars <- c("emp.var.rate", "cons.price.idx", "cons.conf.idx", "euribor3m")
+
+# STEP 4: Rename for display
+variable_names <- c(
+  "emp.var.rate" = "Employment Variation Rate",
+  "cons.price.idx" = "Consumer Price Index",
+  "cons.conf.idx" = "Consumer Confidence Index",
+  "euribor3m" = "3-Month Euribor Rate"
+)
+
+# STEP 5: Reshape data to long format
+long_data <- bank_data %>%
+  select(y, all_of(economic_vars)) %>%
+  pivot_longer(cols = -y, names_to = "Economic_Variable", values_to = "Value") %>%
+  mutate(Economic_Variable = variable_names[Economic_Variable])
+
+# STEP 6: Define colors
+color_map <- c("yes" = "forestgreen", "no" = "firebrick")
+
+# STEP 7: Create the box plot
+ggplot(long_data, aes(x = y, y = Value, fill = y)) +
+  geom_boxplot(color = "black", alpha = 0.8) +
+  facet_wrap(~ Economic_Variable, scales = "free_y") +
+  scale_fill_manual(values = color_map) +
+  labs(
+    title = "Economic Indicators by Subscription Status",
+    x = "Subscribed (y)",
+    y = "Value"
+  ) +
+  theme_minimal() +
+  theme(
+    legend.position = "none",
+    strip.text = element_text(size = 11, face = "bold")
+  )
+
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+```{r}
+ggsave("economic_indicators_subscription_boxplot.png", width = 10, height = 6, dpi = 300)
+
+```
+
+```{}
+```
+
+```{}
+```

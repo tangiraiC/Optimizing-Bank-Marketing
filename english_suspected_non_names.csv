@@ -1,0 +1,246 @@
+phrase,count,examples,reasons,suspected_non_name
+there,33,"div>&nbsp;</div></div><div>Hi there,</div><div>&nbsp;</div><div>I",greeting,TRUE
+Guzi He,15,"lCompose"">From:</strong>&nbsp;Guzi He &lt;[EMAIL]&gt;</div><div><di",full_name,TRUE
+Yuchen He,14," I-20</p><p>&nbsp;</p><p>Dear Yuchen He,</p><p>&nbsp;</p><p>Your curr","full_name, greeting",TRUE
+Umaru Afiz A. Sesay,14,"regards,</div><div dir=""auto"">Umaru Afiz A. Sesay</div><div dir=""auto"">AU ID: 5",full_name,TRUE
+Sir or Madam,13," 2022</p><p>&nbsp;</p><p>Dear Sir or Madam,</p><p><br /> My name is Juli",greeting,TRUE
+he,13,"nt, Yucheng, notified us that he had applied to transfer out t",last_token,TRUE
+I,11,"em OPT</p><p>&nbsp;</p><p>Hi, I'm sending a screenshot of the",greeting,TRUE
+Hope,9,"py-source=""MailCompose"">Hello Hope,</div><div>&nbsp;</div><div>I","first_only, greeting",TRUE
+International Students,8,"(MPP)</p><p>&nbsp;</p><p>Dear International Students,</p><p>&nbsp;</p><p>Congratul",greeting,TRUE
+Hope Nyoni,7,r /><strong>To:</strong>&nbsp;Hope Nyoni &lt;[EMAIL]&gt;<br /><strong>,full_name,TRUE
+Admissions Team,7,oved!</p><p>&nbsp;</p><p>Dear Admissions Team!</p><p>I am thrilled to infor,greeting,TRUE
+Hope Mutema,6,"adonly=""true"" aria-label=""To: Hope Mutema"">?<div class=""fui-PresenceBad",full_name,TRUE
+International Service Office,5,"p;High</p></div></div><p>Dear International Service Office Representative,&nbsp;</p><p>T",greeting,TRUE
+AHMED MOHAMED A AL OMARI,5,Subject: </strong>Re: 5393033 AHMED MOHAMED A AL OMARI - Program Extension Request</,full_name,TRUE
+Sir and Madam,5," I-20</p><p>&nbsp;</p><p>Dear Sir and Madam,</p><p>&nbsp;</p><p>Thank you",greeting,TRUE
+ISS Team,5,"4063)</p><p>&nbsp;</p><p>Dear ISS Team,</p><p>I hope this email find",greeting,TRUE
+AU International Student,5,"v>&nbsp;</div></div><div>Dear AU International Student Services Unit,</div><div>I ho",greeting,TRUE
+International Office,5,"ities</p><p>&nbsp;</p><p>Dear International Office,</p><p><br />I hope this emai",greeting,TRUE
+in,4,contact the admissions office in regards of any information re,first_only,TRUE
+I am Sehoon,4,"ent</p><p>&nbsp;</p><p>Hello, I am Sehoon Kim. My AU ID is 5531882. Tha",greeting,TRUE
+good morning from,4,"WIFr_Nm5jq4MFdIOd0Nn4cWD$"">Hi good morning from Nigeria,my name is Chinero Nw",greeting,TRUE
+ISSA Office,4,"=""ltr""><div dir=""ltr""><p>Dear ISSA Office,</p><p>I hope this message fi",greeting,TRUE
+ISSS Office Team,4,"Setup</p><p>&nbsp;</p><p>Dear ISSS Office Team,</p><p>&nbsp;</p><p>I hope th",greeting,TRUE
+sir or madam,4,n i20</p><p>&nbsp;</p><p>Dear sir or madam&nbsp;</p><p>&nbsp;</p><p>Morn,greeting,TRUE
+Zhixian He,4,"PM<br /> <strong>To:</strong> Zhixian He &lt;<a href=""mailto:[EMAIL]"">",full_name,TRUE
+members of the,4," Visa</p><p>&nbsp;</p><p>Dear members of the ISSS Team,</p><p>&nbsp;</p><p",greeting,TRUE
+American University ISSS,4,"r""><div>&nbsp;</div><div>Dear American University ISSS Office staff,</div><div>&nbsp",greeting,TRUE
+I am Yasir,3,process</p><p>&nbsp;</p><p>Hi I am Yasir and I am a PhD student at SPA,greeting,TRUE
+ISS team,3,"ation</p><p>&nbsp;</p><p>Dear ISS team,</p><p>I kindly request your ",greeting,TRUE
+In Pak,3,"<p>Hello In Pak,</p><p>&nbsp;</p><p>Thanks fo","full_name, greeting",TRUE
+International Student Services,3,"div>&nbsp;</div></div><div>Hi International Student Services Team,&nbsp;</div><div>I am su",greeting,TRUE
+Stanislav or Stas Vorozheikin,3,"PM<br /> <strong>To:</strong> Stanislav or Stas Vorozheikin &lt;<a href=""mailto:[EMAIL]"">",full_name,TRUE
+Student,3,"lment</p><p>&nbsp;</p><p>Dear Student,</p><p>&nbsp;</p><p>We are wr",greeting,TRUE
+Kogod Graduate Admissions,3,"ltr""><div dir=""ltr""><div>Dear Kogod Graduate Admissions Team,</div><div>I hope this m",greeting,TRUE
+Alissa and Dr,3,ange</p><p>&nbsp;</p><p>Hello Alissa and Dr. Arpaci;</p><p>&nbsp;</p><p>I,greeting,TRUE
+Dear,3,"I-20</p><p>&nbsp;</p><p>Hello Dear,</p><p>I wrote to your team e",greeting,TRUE
+There,3,"div>&nbsp;</div></div><div>Hi There,</div><div>&nbsp;</div><div>H",greeting,TRUE
+He,3,lation Submitted for Kristina He</p><p>&nbsp;</p><p>A petition,last_token,TRUE
+good morning,2,"ing</p><p>&nbsp;</p><p>Hello, good morning</p><p>&nbsp;</p><p>Hope this ",greeting,TRUE
+this is Yuri,2,"><div>&nbsp;</div><div>Hello, this is Yuri Na (AU ID: 5264867)</div><div",greeting,TRUE
+I hope all,2,"I20</p><p>&nbsp;</p><p>Hello, I hope all is well. I sent in all my req",greeting,TRUE
+I just wanted,2,"-20</p><p>&nbsp;</p><p>Hello, I just wanted to be sure that I need to sen",greeting,TRUE
+ISSSO Team,2,"v>&nbsp;</div></div><div>Dear ISSSO Team,</div><div>I hope this email ",greeting,TRUE
+University Registrar Team,2,"scribed as:?&nbsp;<br /> Dear University Registrar Team,<br /> <br /> I hope this ema",greeting,TRUE
+good morning and,2,"and attachments.</p><p>Hello, good morning and I'm glad to hear from you</p>",greeting,TRUE
+Lamin a Sanneh,2,</p><p><strong>From:</strong> Lamin a Sanneh &lt;[EMAIL]&gt; <br /> <stron,full_name,TRUE
+I wanted to,2,"ension</p><p>&nbsp;</p><p>Hi, I wanted to ask how to apply for my OPT e",greeting,TRUE
+Clark Morris it,2,</tr></tbody></table><p>Hello Clark Morris it's me chernor maju Bah from Si,greeting,TRUE
+I will travel,2,"&nbsp;</div></div><div>Hello, I will travel outside the United States, so",greeting,TRUE
+ISSS department,2,"s May</p><p>&nbsp;</p><p>Dear ISSS department,&nbsp;</p><p>I'm Yuteng Han a",greeting,TRUE
+Admissions Office,2,"native Option<br /><br />Dear Admissions Office,<br /><br />I hope you&rsquo;",greeting,TRUE
+ISS Office,2, Date</p><p>&nbsp;</p><p>Dear ISS Office&nbsp;</p><p>I hope this messa,greeting,TRUE
+Prodigy Finance Team,2," Ansumana</strong></p><p>Dear Prodigy Finance Team,</p><p>I am writing to respec",greeting,TRUE
+Zeyu and Sam,2,"n<br /><br /></div><div>Hello Zeyu and Sam,</div><div>&nbsp;</div><div>T",greeting,TRUE
+Olusoji I. Adenekan,2,"ge finds you well. My name is Olusoji I. Adenekan, and I am a recent graduate o",full_name,TRUE
+AU SPA Admissions,2,"/p></div><p>&nbsp;</p><p>Dear AU SPA Admissions Team (and ISSS Office),<br />",greeting,TRUE
+Office of the,2,"v>&nbsp;</div></div><div>Dear Office of the Registrar,</div><div>My name ",greeting,TRUE
+good day,2,"<p class=""x_MsoNormal"">Hello, good day,</p><p class=""x_MsoNormal"">If",greeting,TRUE
+international students and,2,"d></tr><tr><td><p><br /> Dear international students and scholars, <br /> <br /> This ",greeting,TRUE
+I am an,2,"SS:</p><p>&nbsp;</p><p>Hello, I am an rising L2 international stude",greeting,TRUE
+Andrea and Uswa,2,"<p>Hello Andrea and Uswa,</p><p>&nbsp;</p><p>Thanks fo",greeting,TRUE
+Ben and ISSS,2,"L]</a>&gt; wrote:</p><p>Hello Ben and ISSS,</p><p>Kindly receive the att",greeting,TRUE
+Lauren and Laurel,2,"k4mnaTkUyya3yQaA5AFgi$"">Hello Lauren and Laurel,</a></p><p><a href=""https://u",greeting,TRUE
+International students and,2,"ass=""rps_f61a""><div><div>Dear International students and Scholar Service team,</div><d",greeting,TRUE
+International Students and,2,"r><tr><td width=""602""><p>Dear International Students and Scholars,<br /> <br /> <stron",greeting,TRUE
+Tariq and the,2,"equired</p><p>&nbsp;</p><p>Hi Tariq and the team,</p><p>&nbsp;</p><p>This",greeting,TRUE
+"He, Yucheng",2,"IS Completed Record<br /> To: He, Yucheng &lt;<a href=""mailto:[EMAIL]"">",last_first,TRUE
+this is Nobuomi,2,cern</p><p>&nbsp;</p><p>Hello this is Nobuomi. I am not sure I need to let ,greeting,TRUE
+ISSS Employment and,2,"ization</p><p>&nbsp;</p><p>Hi ISSS Employment and Kaddijatou,<br /><br />Thank ",greeting,TRUE
+American University Team,2,"dir=""auto""><p dir=""auto"">Dear American University Team,</p><p dir=""auto"">I hope this",greeting,TRUE
+I am Nabtahil,2,"rocess</p><p>&nbsp;</p><p>Hi, I am Nabtahil Iqbal, recently admitted to P",greeting,TRUE
+Rene and Professor,1,"n=""true"">&nbsp;</p><div><p>Hi Rene and Professor Dan,</p></div><div><p>I hope ",greeting,TRUE
+Yohana and Melanija,1,"<p>Hello Yohana and Melanija,</p><p>&nbsp;</p><p>Thank you",greeting,TRUE
+Thansk you for,1,"ice</p><p>&nbsp;</p><p>Hello, Thansk you for the info. Here is a Transfer ",greeting,TRUE
+Sir or Ma,1,"ortal</p><p>&nbsp;</p><p>Dear Sir or Ma'am,</p><p>&nbsp;</p><p>I hope",greeting,TRUE
+Staff of KogodGrad,1,"t;[EMAIL]&gt; wrote:<div>Dear Staff of KogodGrad,</div><div>&nbsp;</div><div>I",greeting,TRUE
+Student Services AU,1,"div>&nbsp;</div></div><p>Dear Student Services AU,</p><p>I hope this email find",greeting,TRUE
+Samuel A. Ogunti,1,"br /><br />Best regards,<br />Samuel A. Ogunti</p></div></div></div></div></",full_name,TRUE
+Suzanne and Christian,1,"<p>Hi Suzanne and Christian,</p><p>ISSS has been doing we",greeting,TRUE
+This is Jiatong,1,"rue"">&nbsp;</div></div><p>Hi, This is Jiatong Jiao, currently enrolled at A",greeting,TRUE
+Tara and Imran,1,"-copy-source=""MessageBody"">Hi Tara and Imran,</div><div class=""x_elementTo",greeting,TRUE
+Team ISSS,1,">&nbsp;</div></div><div>Hello Team ISSS,&nbsp;</div><div>&nbsp;</div>",greeting,TRUE
+Rene and Paul,1,"<p>Hi Rene and Paul,</p><p>Thank you for contacti",greeting,TRUE
+Yiyou He,1,</p><p><strong>From:</strong> Yiyou He &lt;[EMAIL]&gt; <br /> <stron,full_name,TRUE
+Yazhen and Sam,1,"l><head></head><body><p>Hello Yazhen and Sam,</p><p>Thank you for contacti",greeting,TRUE
+Victor and Melanija,1,"ents.&nbsp;</p><hr /><p>Hello Victor and Melanija,</p><p>Thank you for sending ",greeting,TRUE
+This is Junhao,1,"<div>&nbsp;</div></div><p>Hi, This is Junhao Ma, AUID 5552579, I have subm",greeting,TRUE
+Respectable Office,1,"layed</p><p>&nbsp;</p><p>Dear Respectable Office,</p><p>&nbsp;</p><p>I am Fato",greeting,TRUE
+Robin and Senem,1,"=""ltr""><div dir=""ltr""><p>Dear Robin and Senem,</p><p>Thank you for providin",greeting,TRUE
+Zihe and Dr,1,"<p>Hello, Zihe and Dr. Banerjee&mdash;</p><p>&nbsp;",greeting,TRUE
+Professor Levinson and,1,"nternship End Date</p><p>Dear Professor Levinson and Justina,</p><p>I hope you are",greeting,TRUE
+SPA team,1,";High</p></div></div><p>Hello SPA team,</p><p>We hope you are all we",greeting,TRUE
+Sam and Liora,1,">&nbsp;</div></div><div>Hello Sam and Liora,</div><div>&nbsp;</div><div>W",greeting,TRUE
+good morning please,1,025]</p><p>&nbsp;</p><p>Hello good morning please this is Prosper Eshun&nbsp;</,greeting,TRUE
+am I a,1,"&nbsp;</div></div><div>Hello, am I a current student?<br /><br /><",greeting,TRUE
+this is Jaewoo,1,"</div><div><div dir=""ltr"">Hi, this is Jaewoo Song who asked for the past D",greeting,TRUE
+sir or,1,"v>&nbsp;</div></div><div>Dear sir or&nbsp;ma'am,</div><div>&nbsp;<",greeting,TRUE
+so my OPT,1, Record</p><p>&nbsp;</p><p>Hi so my OPT document is ready but somehow,greeting,TRUE
+staff,1,">&nbsp;</div></div><div>Hello staff,</div><div>&nbsp;</div><div>I",greeting,TRUE
+still waiting for,1," Graduation and OPT</p><p>Hi, still waiting for the response.</p><p>&nbsp;</p",greeting,TRUE
+student,1,"div>&nbsp;</div></div><p>Dear student,</p><p>&nbsp;</p><p>According",greeting,TRUE
+thank you very,1,"iv>&nbsp;</div></div><div>Hi, thank you very much for the answer. I will b",greeting,TRUE
+the Keystone bank,1,"iew</p><p>&nbsp;</p><p>Hello, the Keystone bank account I submitted is my per",greeting,TRUE
+the dean of,1,"ir=""ltr""><div dir=""ltr"">Hello the dean of students told me to reach out",greeting,TRUE
+this is Byunghak,1,"rmRE:<br />&nbsp;<br />Hello, this is Byunghak Kang and yes I&rsquo;m going ",greeting,TRUE
+this is Hangyeol,1," you well.&nbsp;</p><p>Hello, this is Hangyeol Park.&nbsp;</p><p>Currently, ",greeting,TRUE
+this is JiaJie,1," issue</p><p>&nbsp;</p><p>Hi, this is JiaJie Liu, my student id is 5629397",greeting,TRUE
+and thank you,1, my I20</p><p>&nbsp;</p><p>Hi and thank you for sending my I20. I appreci,greeting,TRUE
+this is Jiyoo,1," concern,<br /> <br /> Hello, this is Jiyoo Park who was attending Americ",greeting,TRUE
+this is Junhao,1,"<div>&nbsp;</div></div><p>Hi, this is Junhao Ma. Thank you for your reply.",greeting,TRUE
+this is Sooyeun,1,"&nbsp;</div></div><div>Hello, this is Sooyeun Kim</div><div id=""x_ms-outloo",greeting,TRUE
+this is Yubeen,1,"Number</p><p>&nbsp;</p><p>Hi, this is Yubeen Jeong from Abroad AU.</p><p>&",greeting,TRUE
+this is Yuxuan,1,"><div>&nbsp;</div><div>Hello, this is Yuxuan Liang AU ID:5154585 and I&rsq",greeting,TRUE
+this is depeng,1,"<div>Hi, this is depeng zeng&nbsp;</div><div>I am sor",greeting,TRUE
+to whom it,1,"class=""x_elementToProof"">Dear to whom it may concern,</div><div class=",greeting,TRUE
+to whom this,1,">&nbsp;</div></div><div>Hello to whom this may concern,</div><div>&nbsp;",greeting,TRUE
+to you both,1,>&nbsp;</div></div><div>Hello to you both!</div><div>&nbsp;</div><div>T,greeting,TRUE
+when could i,1,"trong></p><p>&nbsp;</p><p>Hi, when could i get the new I-20</p>",greeting,TRUE
+sir now I,1,sions</p><p>&nbsp;</p><p>Dear sir now I understand where the problem&,greeting,TRUE
+respected university students,1,>&nbsp;</div></div><div>Hello respected university students.&nbsp;</div><div>I am LLM stu,greeting,TRUE
+recently I am,1,"SS:</p><p>&nbsp;</p><p>Hello, recently I am considering to obtain a US dr",greeting,TRUE
+please the address,1,"&nbsp;</div></div><div>Hello, please the address for Ghana Commercial Bank is ",greeting,TRUE
+and thanks for,1,"<div>Rachel,<div>&nbsp; Hello and thanks for teaching out.&nbsp; The stude",greeting,TRUE
+but also to,1,<p>Student came in to say hi but also to inquire about possible offer ,greeting,TRUE
+can you please,1,"editable_content""><div>Hello, can you please inform me if my ISSS document",greeting,TRUE
+concerned department,1,"v>&nbsp;</div></div><div>Dear concerned department,</div><div>&nbsp;</div><div>I",greeting,TRUE
+dear Clark,1,"t: </strong>Re: I-20</p><p>Hi dear Clark</p><p>&nbsp;</p><p>yes, I hav",greeting,TRUE
+dear clark,1,bject: </strong>I-20</p><p>Hi dear clark</p><p>&nbsp;</p><p>I hope thi,greeting,TRUE
+dear issss team,1," refuse</p><p>&nbsp;</p><p>Hi dear issss team,</p><p>&nbsp;</p><p>thanks fo",greeting,TRUE
+good,1,UIRY</p><p>&nbsp;</p><p>Hello good&nbsp;day.I am writing to requ,greeting,TRUE
+Office of ISSS,1,"ation</p><p>&nbsp;</p><p>Dear Office of ISSS:</p><p>&nbsp;</p><p>Hello, re",greeting,TRUE
+has my new,1,"sp;</p><p>&nbsp;</p><p>Hello, has my new i20 application been successf",greeting,TRUE
+hope,1,r  student</p></div><div><p>I hope my email finds you&nbsp;well.,first_only,TRUE
+hope all is,1,"c""><div dir=""ltr""><div>Hello, hope all is well. This is Jose Martinez (",greeting,TRUE
+hope your day,1,"df</a></p><p>&nbsp;</p><p>Hi, hope your day is going well. As regard the ",greeting,TRUE
+how are you,1,"ubt</p><p>&nbsp;</p><p>Hello, how are you?</p><p>I'm trying to do the """,greeting,TRUE
+i have now,1,";</div></div><div><div>Hello, i have now registered for 9 credits. Ple",greeting,TRUE
+i hope all,1,"39)</p><p>&nbsp;</p><p>hello, i hope all is well. I thank you all for ",greeting,TRUE
+im a ACDC,1,"iv>&nbsp;</div></div><div>Hi, im a ACDC student, I will flying back t",greeting,TRUE
+jia and Nicole,1," Record</p><p>&nbsp;</p><p>Hi jia and Nicole,&nbsp;</p><p>&nbsp;</p><p>&nb",greeting,TRUE
+madam or sir,1,v>&nbsp;</div></div><div>Dear madam or sir:</div><div>&nbsp; &nbsp; &nbs,greeting,TRUE
+manager,1,"v dir=""ltr""><div dir=""ltr"">Hi manager</div><div dir=""ltr"">&nbsp;</d",greeting,TRUE
+may I have,1,"ficer</div><div dir=""ltr"">Hi, may I have a travel signature for my I-2",greeting,TRUE
+Office of International,1,"551""><div dir=""ltr""><div>Dear Office of International Student and Scholar Services,",greeting,TRUE
+Jennifer and Cristina,1,<p>Hello Jennifer and Cristina;</p><p>&nbsp;</p><p>This is A,greeting,TRUE
+Nora and Robin,1,"div>&nbsp;</div></div><div>Hi Nora and Robin,</div><div>Thank you for your",greeting,TRUE
+I am currently,1,"div><div class=""_nzWz"">Hello, I am currently at the Bank with my Sponsor t",greeting,TRUE
+Good afternoon,1,"trong></p><p>&nbsp;</p><p>Hi, Good afternoon&nbsp;</p><p>I'm an EAP studen",greeting,TRUE
+Graduate Admission Office,1," I-20</p><p>&nbsp;</p><p>Dear Graduate Admission Office,<br /> <br /> I hope you are ",greeting,TRUE
+Graduate Admissions Team,1,"rong></p><p>&nbsp;</p><p>Dear Graduate Admissions Team,&nbsp;</p><p>&nbsp;</p><p>I h",greeting,TRUE
+Graduate Team,1,"Email</p><p>&nbsp;</p><p>Dear Graduate Team,</p><p>&nbsp;</p><p>I am Must",greeting,TRUE
+Gurdev and Jonathan,1,"div>&nbsp;</div></div><div>Hi Gurdev and Jonathan,</div><div>&nbsp;</div><div>T",greeting,TRUE
+Helena and Regina,1,"rom ELTA to Inlingua</p><p>Hi Helena and Regina,</p><p>I was informed that Re",greeting,TRUE
+Hope this message,1,v>&nbsp;</div></div><div>Hi - Hope this message finds you well!&nbsp;</div><d,greeting,TRUE
+I am Jaeyeon,1,"eer</p><p>&nbsp;</p><p>Hello, I am Jaeyeon Kim, and I am currently doing",greeting,TRUE
+I am LiWei,1,"&nbsp;</div></div><div>Hello, I am LiWei Wu. I'd like to ask if I can ",greeting,TRUE
+I am Sungcheol,1,"summer</p><p>&nbsp;</p><p>Hi, I am Sungcheol, PhD student at SIS.</p><p>&n",greeting,TRUE
+I am depeng,1,/strong> depeng zeng</p><p>hi I am depeng zeng. I want to confirm that ,greeting,TRUE
+Nicordia and Kogod,1,"roval</p><p>&nbsp;</p><p>Dear Nicordia and Kogod Graduate Admissions,</p><p>&n",greeting,TRUE
+I am going,1,"iEagle</p><p>&nbsp;</p><p>Hi, I am going home for the weekend to visit",greeting,TRUE
+I am new,1,>&nbsp;</div></div><div>Hello I am new sjd student at American Unive,greeting,TRUE
+I am reaching,1,"Professor Levinson,</p><p>Hi, I am reaching out to ask about my internshi",greeting,TRUE
+I entered today,1,"isa</p><p>&nbsp;</p><p>Hello, I entered today at Dulles.&nbsp;</p><p>&nbsp;",greeting,TRUE
+I have got,1,"cation</p><p>&nbsp;</p><p>Hi, I have got a job with AU pathon and want",greeting,TRUE
+I just received,1,"DSO</p><p>&nbsp;</p><p>Hello, I just received&nbsp;my EAD card yesterday, u",greeting,TRUE
+I just sent,1,"ass=""x_elementToProof"">Hello, I just sent the request for the travel si",greeting,TRUE
+I need to,1,"i20</p><p>&nbsp;</p><p>Hello, I need to download the i20 but I can't ",greeting,TRUE
+I need urgent,1,"igh</p><p>&nbsp;</p><p>Hello, I need urgent help filling in the second pa",greeting,TRUE
+I recently submitted,1,"iv><div><div dir=""ltr"">Hello, I recently submitted documents for processing&nbsp",greeting,TRUE
+Good Morning,1,"ies</p><p>&nbsp;</p><p>Hello, Good Morning.&nbsp;</p><p>&nbsp;</p><p>My ",greeting,TRUE
+Francisco A. Rezzonico,1,"><div>Kind regards,</div><div>Francisco A. Rezzonico</div>",full_name,TRUE
+Finance Office,1,"</div></div><p dir=""ltr"">Dear Finance Office</p><p dir=""ltr"">This is my se",greeting,TRUE
+Felipe and Sam,1,<p>Hello Felipe and Sam!</p><p>&nbsp;</p><p>We can co,greeting,TRUE
+AU International Office,1,"div>&nbsp;</div></div><p>Dear AU International Office,</p><p>Thank you for acceptin",greeting,TRUE
+Academic Integrity Office,1,"<p>Dear Academic Integrity Office and Support Center,</p><p>&nb",greeting,TRUE
+Admissions Committee,1," Form</p><p>&nbsp;</p><p>Dear Admissions Committee,</p><p>I hope this email find",greeting,TRUE
+Admissions office,1,<br /><br /><br /></p><p>Dear Admissions office</p><p>I hope this message fin,greeting,TRUE
+Adriana and Dr,1,<p>Hello Adriana and Dr. Burgorgue;</p><p>&nbsp;</p><,greeting,TRUE
+Alhaji and Nora,1,"9 credit hours</p><hr /><p>Hi Alhaji and Nora,</p><p>Thank you for letting ",greeting,TRUE
+Alison and Abby,1,<p>Hello Alison and Abby;</p><p>&nbsp;</p><p>I wanted ,greeting,TRUE
+American University Financial,1,v>&nbsp;</div></div><div>Dear American University Financial Aid Office and admissions tea,greeting,TRUE
+American University Office,1,"uired</p><p>&nbsp;</p><p>Dear American University Office,</p><p>&nbsp;</p><p>Thank you",greeting,TRUE
+Antonio and ISSS,1,"yle=""font-weight: 400;"">Hello Antonio and ISSS,</span></p><p style=""font-wei",greeting,TRUE
+Ayman and Michelle,1,"r Senem and Dennix,<br />Dear Ayman and Michelle,<br /><br /></p><p>I am writi",greeting,TRUE
+Ayoola and Melanija,1,"ractical track</p><hr /><p>Hi Ayoola and Melanija,</p><p>Attached is the comple",greeting,TRUE
+Basile and dear,1,"<p>Dear Basile and dear Anna,</p><p>&nbsp;</p><p>The ",greeting,TRUE
+Bedirhan and Elizabeth,1,"<p>Hello Bedirhan and Elizabeth;</p><p>&nbsp;</p><p><a href=""",greeting,TRUE
+Bernardo and ISSS,1,"<p>Hello Bernardo and ISSS,</p><p>&nbsp;</p><p>Congratul",greeting,TRUE
+Chifuniro and Wilford,1,"py-source=""MailCompose"">Hello Chifuniro and Wilford,</div><div>&nbsp;</div><div>T",greeting,TRUE
+Dean of Students,1,""">&nbsp;</div></div><div>Dear Dean of Students and ISSS Team,</div><div>I ho",greeting,TRUE
+Dear Advisor,1,"></div><div><div dir=""ltr"">Hi Dear Advisor,</div><div dir=""ltr"">&nbsp;</",greeting,TRUE
+Emmanuella and Rene,1,"rom Sep - Dec)</p><hr /><p>Hi Emmanuella and Rene,</p><p>Thank you for this inf",greeting,TRUE
+Evelyn and Nicole,1,"ide US</p><p>&nbsp;</p><p>Hi, Evelyn and Nicole,</p><p>Thank you for getting ",greeting,TRUE
+Family of Quoc,1,"opy-source=""MailCompose"">Dear Family of Quoc Hien Vuong,</div><div>&nbsp;<",greeting,TRUE
+I saw there,1,"strong></p><p>&nbsp;</p><p>hi,I saw there has a tuition need to pay for",greeting,TRUE
+I sent email,1,"/p><p>Dear Officer,</p><p>Hi, I sent email to ISSS on August 3<sup>rd</s",greeting,TRUE
+I want to,1,"Opt</p><p>&nbsp;</p><p>Hello, I want to apply for OPT what should I d",greeting,TRUE
+International Student Service,1,"ue"">&nbsp;</div></div><p>Dear International Student Service Office,</p><p>&nbsp;</p><div>",greeting,TRUE
+International Students Services,1,ents</p><p>&nbsp;</p><p>Hello International Students Services Team.</p><p>&nbsp;</p><p>I ho,greeting,TRUE
+International Support Team,1,"v>&nbsp;</div></div><div>Dear International Support Team,</div><div>I am writing to in",greeting,TRUE
+Italia and Cara,1,"<p>Hello Italia and Cara;</p><p>&nbsp;</p><p>Cara, my ",greeting,TRUE
+AU ISSS Office,1,"2025)</p><p>&nbsp;</p><p>Dear AU ISSS Office,</p><p>Thank you for your gui",greeting,TRUE
+Josh and ISSS,1,"div lang=""en-US""><div><p>Dear Josh and ISSS,</p><p>&nbsp;</p><p>I have de",greeting,TRUE
+KSB ISSS Team,1,"v>&nbsp;</div></div><div>Dear KSB ISSS Team,</div><div>&nbsp;</div><div>I",greeting,TRUE
+Kogod Admissions Team,1,"IL]</a>&gt; wrote:</p><p>Dear Kogod Admissions Team,</p><p>&nbsp;</p><p>Apologies",greeting,TRUE
+Kogod Graduate Student,1,"uote><div>&nbsp;</div><p>Dear Kogod Graduate Student,</p><p>&nbsp;</p><p>Kogod Gra",greeting,TRUE
+LAMIN A. SANNEH,1,><p>&nbsp;</p><p>&nbsp;</p><p>LAMIN A. SANNEH</p><p>&nbsp;</p><p>Hello!</p>,full_name,TRUE
+Laurel and Lauren,1,"<p>Hi Laurel and Lauren,</p><p>&nbsp;</p><p>I hope yo",greeting,TRUE
+Liz and Jia,1,"tatus</p><p>&nbsp;</p><p>Dear Liz and Jia,</p><p>&nbsp;</p><p>I have ju",greeting,TRUE
+Madam or Sir,1,"v dir=""ltr""><div><div><p>Dear Madam or Sir,</p><p>&nbsp;</p><p>Hoping yo",greeting,TRUE
+Manager,1,"v dir=""ltr""><div dir=""ltr"">Hi Manager</div><div dir=""ltr"">I'm so so",greeting,TRUE
+Melanija and Ayoola,1,"<p>Hello Melanija and Ayoola,</p><p>Thank you for sending ",greeting,TRUE
+Melanija and Christianah,1,"l><head></head><body><p>Hello Melanija and Christianah,</p><p>Before we can proceed ",greeting,TRUE
+Melanija and Nana,1,"<div>Hello Melanija and Nana,</div><div>&nbsp;</div><div>I",greeting,TRUE
+Ms Kathleen please,1,CAMS.</p><p>&nbsp;</p><p>Dear Ms Kathleen please provide the following to fina,greeting,TRUE
+My name,1,"iv>&nbsp;</div></div><div>Hi, My name&nbsp;is Cheng-Lun Lee, and in",greeting,TRUE
+Nathan and Alissa,1,<p>Hello Nathan and Alissa;</p><p>&nbsp;</p><p>I have a ,greeting,TRUE
+Next year I,1,"&nbsp;</div></div><div>Hello, Next year I am starting to a MS Program i",greeting,TRUE
+Nicole and the,1,"3282</p><p>&nbsp;</p><p>Hello Nicole and the ISSS team,&nbsp;</p><p>I hope",greeting,TRUE
+International Student Support,1,"iv><div>&nbsp;</div><div>Dear International Student Support Services Office,</div><div>&n",greeting,TRUE
+International Student Advisor,1," Form</p><p>&nbsp;</p><p>Dear International Student Advisor,</p><p>I hope this email find",greeting,TRUE
+I was asked,1,"iEagle</p><p>&nbsp;</p><p>Hi, I was asked to submit my visa and passpor",greeting,TRUE
+International Office Team,1,"div>&nbsp;</div></div><p>Dear International Office Team,</p><p>I hope this message fi",greeting,TRUE
+I was doing,1,"iv><div dir=""ltr""><div>Hello, I was doing the USCIS application and it ",greeting,TRUE
+I was going,1,"isa</p><p>&nbsp;</p><p>Hello, I was going to transfer to Boston univers",greeting,TRUE
+I will no,1,"&nbsp;</div></div><div>Hello, I will no longer need&nbsp;the I-20 stu",greeting,TRUE
+I would like,1,"&nbsp;</div></div><div>Hello, I would like to know if I should do the ta",greeting,TRUE
+I. Rudenko,1, of Non-arrival to the U.S. - I. Rudenko<div>&nbsp;</div></div><p>Hell,first_initial_last,TRUE
+IAP team,1,"<head></head><body><div>Hello IAP team,</div><div>&nbsp;</div><div>W",greeting,TRUE
+ISS office,1,/div><div>&nbsp;</div><p>Dear ISS office</p><p>I hope this message fin,greeting,TRUE
+ISSS Department,1,"div lang=""en-US""><div><p>Dear ISSS Department,</p><p>I&rsquo;m studying in ",greeting,TRUE
+ISSS Employment Office,1,"v>&nbsp;</div></div><div>Dear ISSS Employment Office,</div><div>&nbsp;</div><div>I",greeting,TRUE
+ISSS Employment office,1,"iv><div>&nbsp;</div><div>Dear ISSS Employment office,</div><div>&nbsp;</div><div>H",greeting,TRUE
+ISSS Immigration Team,1,"<div><div dir=""ltr""><div>Dear ISSS Immigration Team,</div><div>&nbsp;</div><div>T",greeting,TRUE
+ISSS Immigration team,1,"nding OPT Early</div><p>Hello ISSS Immigration team,</p><div>&nbsp;</div><div>Hop",greeting,TRUE
+ISSS and Jordan,1,"5958)</p><p>&nbsp;</p><p>Dear ISSS and Jordan Miles,</p><p>&nbsp;</p><p>&nb",greeting,TRUE
+ISSS and KSB,1," /><br /></span></p><div>Dear ISSS and KSB,</div><div>&nbsp;</div><div>H",greeting,TRUE
+ISSS email holders,1,"ass=""x_x_elementToProof"">Dear ISSS email holders,</div><div class=""x_x_element",greeting,TRUE
+ISSS office and,1,v>&nbsp;</div></div><div>Dear ISSS office and AU Central</div><div>&nbsp;</,greeting,TRUE
+ISSS office member,1,"nbsp;</p><p>&nbsp;</p><p>Dear ISSS office member,</p><p>&nbsp;</p><p>My name i",greeting,TRUE
+ISSS team at,1,"div>&nbsp;</div></div><div>Hi ISSS team at AU,</div><div>&nbsp;</div><di",greeting,TRUE
+ISSSI office,1,ation</p><p>&nbsp;</p><p>Dear ISSSI office&nbsp;</p><p>&nbsp;</p><p>Plea,greeting,TRUE
+In,1,"<p>Dear In,</p><p>&nbsp;</p><p>I&rsquo;m",greeting,TRUE
+International Admissions Office,1," i-20</p><p>&nbsp;</p><p>Dear International Admissions Office,</p><p>I hope this message fi",greeting,TRUE
+yes my ID,1,"-20</p><p>&nbsp;</p><p>Hello, yes my ID number is 5535261. I mean thi",greeting,TRUE
